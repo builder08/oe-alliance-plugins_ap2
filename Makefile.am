@@ -207,15 +207,15 @@ SUBDIRS += F3LEDControl
 endif
 
 if SF8008
-SUBDIRS += MultiTransCodingSetup VPLEDControl
+SUBDIRS += MultiTransCodingSetup VPLEDControl WirelessAccessPoint
 endif
 
 if SF8008M
-SUBDIRS += MultiTransCodingSetup VPLEDControl
+SUBDIRS += MultiTransCodingSetup VPLEDControl WirelessAccessPoint
 endif
 
-if VIPER4K
-SUBDIRS += MultiTransCodingSetup VPLEDControl
+if VIPER4K 
+SUBDIRS += MultiTransCodingSetup VPLEDControl WirelessAccessPoint
 endif
 
 if GBMV200
@@ -223,7 +223,7 @@ SUBDIRS += MultiTransCodingSetup
 endif
 
 if USTYM4KPRO
-SUBDIRS += MultiTransCodingSetup
+SUBDIRS += MultiTransCodingSetup WirelessAccessPoint
 endif
 
 if BEYONWIZV2
@@ -347,7 +347,7 @@ SUBDIRS += MultiTransCodingSetup
 endif
 
 if MULTIBOX
-SUBDIRS += MultiTransCodingSetup
+SUBDIRS += MultiTransCodingSetup WirelessAccessPoint
 endif
 
 if MULTIBOXSE
