@@ -17,63 +17,76 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
 msgid "Always off"
-msgstr ""
+msgstr "Всегда выключен"
 
 msgid "Brightness Level 1"
-msgstr ""
+msgstr "Уровень яркости 1"
 
 msgid "Brightness Level 2"
-msgstr ""
+msgstr "Уровень яркости 2"
 
 msgid "Brightness level"
-msgstr ""
+msgstr "Уровень яркости"
 
-#
 msgid "Cancel"
 msgstr "Отменить"
 
 msgid "Channelnumber in Standby Clock"
-msgstr ""
+msgstr "Номер канала в режиме ожидания"
 
 msgid "Channelnumber in Standby off"
-msgstr ""
+msgstr "Номер канала в режиме ожидания выкл."
 
 msgid "Channelnumber/Clock in Standby Clock"
-msgstr ""
+msgstr "Номер канала/часы в режиме ожидания"
 
 msgid "Clock always"
-msgstr ""
+msgstr "Часы всегда"
 
 msgid "LED Display Setup"
-msgstr ""
+msgstr "Настройка дисплея передней панели"
 
 msgid "Off"
-msgstr ""
+msgstr "Выкл."
 
 msgid "On/Off"
-msgstr ""
+msgstr "Вкл./Выкл."
 
 #
 msgid "Save"
 msgstr "Сохранить"
 
 msgid "Show REC-Symbol in Display"
-msgstr ""
+msgstr "Отображение символа REC на дисплее"
 
 msgid "Show blinking Clock on Display during recording"
-msgstr ""
+msgstr "Показывать мигающие часы на дисплее во время записи"
 
 msgid "Show on LED"
-msgstr ""
+msgstr "Показать на дисплее"
 
 msgid "Time mode"
-msgstr ""
+msgstr "Режим времени"
 
 msgid "Update Date/Time"
-msgstr ""
+msgstr "Обновление даты/времени"
 
 msgid "no"
-msgstr ""
+msgstr "нет"
 
 msgid "yes"
-msgstr ""
+msgstr "да"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
