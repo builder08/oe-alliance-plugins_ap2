@@ -223,7 +223,7 @@ SUBDIRS += MultiTransCodingSetup
 endif
 
 if USTYM4KPRO
-SUBDIRS += MultiTransCodingSetup WirelessAccessPoint
+SUBDIRS += MultiTransCodingSetup WirelessAccessPoint VPLEDControl
 endif
 
 if BEYONWIZV2
@@ -267,7 +267,7 @@ SUBDIRS += MultiTransCodingSetup
 endif
 
 if HD60
-SUBDIRS += MultiTransCodingSetup
+SUBDIRS += MultiTransCodingSetup VPLEDControl
 endif
 
 if HD61
