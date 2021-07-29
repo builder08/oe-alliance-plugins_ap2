@@ -215,7 +215,7 @@ SUBDIRS += MultiTransCodingSetup VPLEDControl WirelessAccessPoint
 endif
 
 if VIPER4K 
-SUBDIRS += MultiTransCodingSetup VPLEDControl WirelessAccessPoint
+SUBDIRS += MultiTransCodingSetup VPLEDControl
 endif
 
 if GBMV200
